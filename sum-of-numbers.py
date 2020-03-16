@@ -30,7 +30,7 @@ def get_sum(a,b):
     elif a < b:
         return sum(range(a, b +1))
     elif a > b:
-        return sum(range(b,a +1))
+        return sum(range(b, a +1))
   
 
 
