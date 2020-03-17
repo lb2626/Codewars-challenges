@@ -30,7 +30,7 @@ We're slicing up to i we're adding one upper case character and then we're doing
 because of the iterations. The first one is added at index 2 and then it continues because it needs to reach the end.
 
 
-
+['Lukey', 'LUkey', 'LuKey', 'LukEy', 'LukeY']
 
 """
 
